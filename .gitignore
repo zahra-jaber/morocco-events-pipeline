@@ -5,3 +5,6 @@ venv/
 .env
 .idea/
 .vscode/
+.git_broken/
+flink-java/target/
+*.jar
